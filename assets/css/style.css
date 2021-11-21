@@ -308,6 +308,7 @@ h1{
   color: #ffff;
 }
 
+
 #hero .social-links {
   margin-top: 30px;
 }
@@ -1239,7 +1240,7 @@ section {
   transition: 0.3s;
 }
 #footer .social-links a:hover {
-  background: #0678e3;
+  background: #27DEBF;
   color: #fff;
   text-decoration: none;
 }
@@ -1470,6 +1471,5 @@ section {
 .mass:hover{
   color: #100E17;
 }
-
 
 
